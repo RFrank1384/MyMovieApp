@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieBrowser</string>
+    <string name="title_search">Search</string>
+    <string name="header_movie_detail">Movie Detail</string>
+    <string name="header_label_rating">Rating</string>
+    <string name="header_release_date">Release date</string>
+    <string name="text_widget_search">Type a movie title</string>
+    <string name="text_error_no_internet">Review your internet connection and try again</string>
+    <string name="child_item_title">Title</string>
+    <string name="child_item_released_date">ReleasedDate</string>
+</resources>
